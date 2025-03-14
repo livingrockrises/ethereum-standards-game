@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ethereum-standards-game/static/css/main.f855e6bc.css",
+    "main.js": "/ethereum-standards-game/static/js/main.e5dec5bd.js",
+    "static/js/453.410c477b.chunk.js": "/ethereum-standards-game/static/js/453.410c477b.chunk.js",
+    "index.html": "/ethereum-standards-game/index.html",
+    "main.f855e6bc.css.map": "/ethereum-standards-game/static/css/main.f855e6bc.css.map",
+    "main.e5dec5bd.js.map": "/ethereum-standards-game/static/js/main.e5dec5bd.js.map",
+    "453.410c477b.chunk.js.map": "/ethereum-standards-game/static/js/453.410c477b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e5dec5bd.js"
+  ]
+}
